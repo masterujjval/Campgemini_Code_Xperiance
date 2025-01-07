@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Java program for simple calculator
 import java.io.*;
 import java.lang.*;
@@ -30,6 +31,11 @@ public class BasicCalculator {
             o = num1 + num2;
             break;
 
+    // case to subtract two numbers
+        case '-':
+            o = num1 - num2;
+            break;
+
 
 
 
@@ -37,4 +43,4 @@ public class BasicCalculator {
     }
 }
 
-
+  
