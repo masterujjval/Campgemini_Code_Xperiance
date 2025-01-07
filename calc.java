@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 // Java program for simple calculator
 import java.io.*;
 import java.lang.*;
