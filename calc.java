@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 // Java program for simple calculator
 import java.io.*;
 import java.lang.*;
@@ -35,7 +36,9 @@ public class BasicCalculator {
         case '-':
             o = num1 - num2;
             break;
-
+ case '*':
+            o = num1 * num2;
+            break;
 
 
 
@@ -43,4 +46,3 @@ public class BasicCalculator {
     }
 }
 
-  
